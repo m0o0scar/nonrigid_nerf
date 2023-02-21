@@ -1,6 +1,10 @@
 
 # Non-Rigid Neural Radiance Fields
 
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1qtOepjwvLRtlZnX_UGjMgC-Y17jah1Sj">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 This is the official repository for the project "Non-Rigid Neural Radiance Fields:
 Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video" (NR-NeRF). We extend NeRF, a state-of-the-art method for photorealistic appearance and geometry reconstruction of a static scene, to dynamic/deforming/non-rigid scenes. For details, we refer to [the preprint](https://arxiv.org/abs/2012.12247) and [the project page](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/), which also includes supplemental videos.
 
