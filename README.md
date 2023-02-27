@@ -1,7 +1,7 @@
 
 # Non-Rigid Neural Radiance Fields
 
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1qtOepjwvLRtlZnX_UGjMgC-Y17jah1Sj">
+<a target="_blank" href="https://colab.research.google.com/drive/1qtOepjwvLRtlZnX_UGjMgC-Y17jah1Sj">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
